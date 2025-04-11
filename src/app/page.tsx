@@ -68,7 +68,7 @@ export default function Home() {
             />
           </Link>
           <a
-            href="https://github.com/sr2echa/wildlife-nptel"
+            href="https://github.com/Bandish10/conservation-economics-nptel-main"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center text-white hover:text-gray-300 transition-colors duration-300"
@@ -80,8 +80,8 @@ export default function Home() {
 
         <div className="text-left">
           <p className="text-gray-500 text-sm">
-            Master the NPTEL Wildlife & Ecology course material and ace your FAT
-            exam with the specialized quiz app.
+            Master the NPTEL Conservation Economics course material and ace your
+            FAT exam with the specialized quiz app.
           </p>
         </div>
       </div>
